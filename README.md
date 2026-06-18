@@ -19,7 +19,7 @@ This repository contains:
 * a minimal example Serpent2 case illustrating the required input structure;
 * documentation required to reproduce the extraction procedure.
 
-The complete Serpent2 benchmark dataset and the associated verification campaign are distributed separately through Zenodo.
+The complete Serpent2 inputs for the generation of the benchmark dataset and the associated verification campaign are distributed separately through Zenodo.
 
 **Dataset DOI**
 
