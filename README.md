@@ -45,8 +45,6 @@ The complete Serpent2 benchmark dataset and the associated verification campaign
 ---
 
 
-You could also add a short note in the **Quick Start** section:
-
 ```markdown
 ## Quick Start
 
