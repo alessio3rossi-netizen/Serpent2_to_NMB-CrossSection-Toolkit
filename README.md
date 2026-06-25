@@ -24,7 +24,7 @@ The complete Serpent2 inputs for the generation of the benchmark dataset and the
 **Dataset DOI**
 
 ```text
-[INSERT ZENODO DOI HERE]
+https://doi.org/10.5281/zenodo.20740001
 ```
 
 ---
